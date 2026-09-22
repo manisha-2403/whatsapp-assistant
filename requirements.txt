@@ -1,0 +1,6 @@
+flask==3.0.3
+requests==2.32.3
+python-dotenv==1.0.1
+gspread==6.1.2
+google-auth==2.34.0
+twilio==9.3.2
