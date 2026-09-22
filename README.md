@@ -87,7 +87,7 @@ Copy the `https://xxxx.ngrok-free.app` URL it gives you.
 Back in the Twilio Console page from Step 1, under **Sandbox Configuration**,
 in the **"When a message comes in"** field, enter:
 ```
-[https://xxxx.ngrok-free.app/webhook](https://distort-autism-body.ngrok-free.dev/webhook
+https://xxxx.ngrok-free.app/webhook](https://distort-autism-body.ngrok-free.dev/webhook
 ```
 Make sure the method is set to **HTTP POST**, then click **Save**.
 
